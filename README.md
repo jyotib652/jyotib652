@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyotib652
-- 👀 I’m interested in C++, Python, Django & Java
-- 🌱 I’m currently learning C++, React & Java
+- 👀 I’m interested in Go, C++, Python, Django & Java
+- 🌱 I’m currently learning Microservices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jyotib652@gmail.com
 
