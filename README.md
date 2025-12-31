@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyotib652
-- 👀 I’m interested in Go, Rust
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Go, Zig
+- 🌱 I’m currently learning Zig
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jyotib652@gmail.com
 
